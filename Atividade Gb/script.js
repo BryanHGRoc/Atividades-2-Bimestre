@@ -31,5 +31,3 @@ canvas.height = 1000
 
 //IMAGEM//
    var imagem = document.getElementById('img2');
-
- 
